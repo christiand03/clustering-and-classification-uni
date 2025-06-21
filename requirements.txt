@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+regex
+umap-learn
+nltk
+sentence-transformers
+scikit-learn
+scipy
